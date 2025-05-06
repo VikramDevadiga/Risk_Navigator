@@ -40,6 +40,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## 📬 Contact
 
-For any inquiries or feedback, please reach out to [Vikram Devadiga](mailtodevadigavikram1@gmail.com).
+For any inquiries or feedback, please reach out to [Vikram Devadiga](mailt:odevadigavikram1@gmail.com).
 
 ---
